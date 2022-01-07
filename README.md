@@ -1,3 +1,5 @@
 # screenshotgrabber
 
-import pyautogui or from PIL import ImageGrab
+screenshot_pyautogui.py > import pyautogui
+
+screenshot_PIL.py > from PIL import ImageGrab
